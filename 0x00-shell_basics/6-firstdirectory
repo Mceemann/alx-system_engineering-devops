@@ -1,2 +1,13 @@
-#!/bin/bash
-mkdir my_first_directory
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H<lx-system_engineering-devops/.git/COMMIT_EDITMSG"<_engineering-devops/.git/COMMIT_EDITMSG" 13L, 335C[2;1H[34m# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch [m[35mmaster[m
+[34m# Your branch is up to date with '[m[35morigin/master[m[34m'.
+#
+# [m[35mChanges to be committed:[m
+[34m#       [m[32mmodified[m[34m: [m[31m  6-firstdirectory[m
+[34m#
+# [m[35mChanges not staged for commit:[m
+[34m#       [m[32mmodified[m[34m: [m[31m  6-firstdirectory[m
+[34m#[m
+[1m[34m~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H1,0-1[9CAll[1;1H[?25h[?25l[24;53Hl[1;1H[24;53H [1;1H[?25h[?25l[24;53Hs[1;1H[24;53H [1;1H[24;53Hcl[1;1H[24;53H  [1;1H[24;1H[1m-- INSERT --[m[24;13H[K[24;63H1,1[11CAll[1;1H[?25h[?25l[2;23r[2;1H[L[1;24r[24;63H[K[24;63H2,1[11CAll[2;1H[?25h[?25l[3;23r[3;1H[L[1;24r[24;63H[K[24;63H3,1[11CAll[3;1H[?25h[?25lc[24;65H2[3;2H[?25h[?25ld[24;65H3[3;3H[?25h[?25l[24;65H4[3;4H[?25h[?25l.[24;65H5[3;5H[?25h[?25l.[24;65H6[3;6H[?25h[?25l[4;23r[4;1H[L[1;24r[24;63H[K[24;63H4,1[11CAll[4;1H[?25h
